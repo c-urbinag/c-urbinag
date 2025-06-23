@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c-urbinag
 - 👀 I’m interested in Climate change, atmospheric chemistry and birdwatching
 - 🌱 I’m currently learning about Biogenic VOC
-- 📫 How to reach me: constanza.urbinaguerra@misu.su.se
+- 📫 How to reach me: constanza.urbina.guerra@misu.su.se
 - 😄 Pronouns: she/her
 
 <!---
